@@ -1,0 +1,12 @@
+Requirement : Must Have Java RE 1.8+
+              Or JDK 11.0+
+-------------------------------
+How to Open:
+How to Open with cmd
+Browse to your location in cmd
+Example : 
+->cls
+->cd/
+->cd Users\Satyam\Documents\NetBeansProjects\Pardarshi\dist
+-> java -jar Pardarshi.jar
+DONE!!
